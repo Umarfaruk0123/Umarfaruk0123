@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Umarfaruk Shaikh —  Business & Data Analyst with hands-on project experience<br><br>Core Skills      : Excel, SQL, Power BI, Data Analysis, Business Insights, KPI Analysis<br>Currently On     : Real-world Dashboards, Financial Analysis & Founder-level Business Insights<br>Learning         : Python for Data Analysis • Advanced DAX • AI-driven Decision Making<br>Certifications   : Google Data Analytics, Google Project Management, Microsoft Power BI,<br>                   SQL for Data Science, Business Strategy, Financial Accounting & AI Essentials<br>Strength         : Turning messy data into clear, actionable business stories 📊
+I am Umarfaruk Shaikh —  Business & Data Analyst     : Excel, SQL, Power BI, Data Analysis, Business Insights, KPI Analysis<br>Currently On     : Real-world Dashboards, Financial Analysis & Founder-level Business Insights<br>Learning         : Python for Data Analysis • Advanced DAX • AI-driven Decision Making<br>Certifications   : Google Data Analytics, Google Project Management, Microsoft Power BI,<br>                   SQL for Data Science, Business Strategy, Financial Accounting & AI Essentials<br>Strength         : Turning messy data into clear, actionable business stories 📊
 
 
 ## 🌐 Socials:
