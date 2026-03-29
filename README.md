@@ -4,8 +4,9 @@ I am Umarfaruk Shaikh —  Business & Data Analyst     : Excel, SQL, Power BI, D
 
 ---
 
+### 📊 Data Analyst | 💼 Business Analyst | 💰 Finance Analyst
 
-
+*Turning raw data into actionable insights that drive business decisions*
 
 ---
 
